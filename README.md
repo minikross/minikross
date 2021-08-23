@@ -10,9 +10,10 @@
   </head>
   <body>
     <div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+     <div class="card-body">
+    <h5 class="card-title">Libft</h5>
+    <h6 class="card-subtitle mb-2 text-muted">[![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/Libft)](https://github.com/JaeSeoKim/badge42)
+</h6>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
@@ -26,7 +27,6 @@
 
 
 
-[![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/Libft)](https://github.com/JaeSeoKim/badge42)
 
 get_next_line : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/get_next_line)](https://github.com/JaeSeoKim/badge42)
 ft_printf : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/ft_printf)](https://github.com/JaeSeoKim/badge42)
