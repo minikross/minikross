@@ -1,6 +1,6 @@
 [![obalta's 42 stats](https://badge42.herokuapp.com/api/stats/obalta)](https://github.com/JaeSeoKim/badge42)
 <html>
-  <h1>Libft : </h1></html>
+  <h5>Libft : </h5></html>
 
 
 
