@@ -1,5 +1,5 @@
 [![obalta's 42 stats](https://badge42.herokuapp.com/api/stats/obalta)](https://github.com/JaeSeoKim/badge42)
-<!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
