@@ -1,7 +1,7 @@
 [![obalta's 42 stats](https://badge42.herokuapp.com/api/stats/obalta)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/libft)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/get_next_line)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/printf)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/ft_printf)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/netwhat)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/cub3d)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/ft_server)](https://github.com/JaeSeoKim/badge42)
