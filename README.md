@@ -1,6 +1,15 @@
 [![obalta's 42 stats](https://badge42.herokuapp.com/api/stats/obalta)](https://github.com/JaeSeoKim/badge42)
 <html>
   <h1>Libft : </h1></html>
+
+
+
+
+
+
+
+
+
 [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/Libft)](https://github.com/JaeSeoKim/badge42)
 
 get_next_line : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/get_next_line)](https://github.com/JaeSeoKim/badge42)
