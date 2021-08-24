@@ -8,7 +8,7 @@
 
   </head>
   <div class="card">
-  <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="...">
+  <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="...">
 
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
