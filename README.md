@@ -21,7 +21,7 @@
         
         
         
-        <div class="card" style="width: 18rem;">
+        <div class="card">
           <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="...">
           <div class="card-body">
                 <p class="card-text">Libft</p>
