@@ -35,46 +35,38 @@
             <p>get_next_line</p>
           </div>
         </div>
-      </div>
-      <div class="row">
         <div class="col">
-          
-          <table>
-            <tr>
-              <td>          <a href="https://profile.intra.42.fr/users/obalta"> Libft
-            <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
-          </a></td> 
-            </tr>
-            <tr>
-              <td>ft_printf</td> <td>get_next_line</td> <td>netwhat</td> 
-            </tr>
-            <tr>
-              <td>ft_server</td> <td>cub3d</td> <td>libasm</td> 
-            </tr>
-            <tr>
-              <td>push_swap</td> <td>philosopher</td> <td>minitalk</td> 
-            </tr>
-          </table>
-      </div>
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/cub3d" class="card-img-top" alt="toto">
+            <p>cub3d</p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/libasm" class="card-img-top" alt="toto">
+            <p>libasn</p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/ft_server" class="card-img-top" alt="toto">
+            <p>ft_server</p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/get_next_line" class="card-img-top" alt="toto">
+            <p>get_next_line</p>
+          </div>
+        </div>
+        
+        
+        
       </div>
     </div>
   </div>
     
 </html>
-
-
-
-
-get_next_line : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/get_next_line)](https://github.com/JaeSeoKim/badge42)
-ft_printf : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/ft_printf)](https://github.com/JaeSeoKim/badge42)
-netwhat : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/netwhat)](https://github.com/JaeSeoKim/badge42)
-
-cub3d : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/cub3d)](https://github.com/JaeSeoKim/badge42)
-ft_server : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/ft_server)](https://github.com/JaeSeoKim/badge42)
-libasm : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/libasm)](https://github.com/JaeSeoKim/badge42)
-
-minitalk : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/minitalk)](https://github.com/JaeSeoKim/badge42)
-
 
 
 
