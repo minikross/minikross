@@ -20,7 +20,7 @@
           <table>
             <tr>
               <td>          <a href="https://profile.intra.42.fr/users/obalta"> Libft
-            <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
           </a></td> 
             </tr>
             <tr>
