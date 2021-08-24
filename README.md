@@ -15,16 +15,20 @@
             <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
           </a>
         </div>
+      
+      <div class="col">
+          <table>
+            <tr>
+              <td>Foo</td>
+            </tr>
+          </table>
+      </div>
     </div>
   </div>
     
 </html>
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+
 
 
 get_next_line : [![obalta's 42Project Score](https://badge42.herokuapp.com/api/project/obalta/get_next_line)](https://github.com/JaeSeoKim/badge42)
