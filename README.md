@@ -35,6 +35,12 @@
             <p>get_next_line</p>
           </div>
         </div>
+         <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/netwhat" class="card-img-top" alt="toto">
+            <p>netwhat</p>
+          </div>
+        </div>
         <div class="col">
           <div class="card">
             <img src="https://badge42.herokuapp.com/api/project/obalta/cub3d" class="card-img-top" alt="toto">
@@ -44,7 +50,7 @@
         <div class="col">
           <div class="card">
             <img src="https://badge42.herokuapp.com/api/project/obalta/libasm" class="card-img-top" alt="toto">
-            <p>libasn</p>
+            <p>libasm</p>
           </div>
         </div>
         <div class="col">
@@ -56,15 +62,9 @@
         <div class="col">
           <div class="card">
             <img src="https://badge42.herokuapp.com/api/project/obalta/get_next_line" class="card-img-top" alt="toto">
-            <p>get_next_line</p>
+            <p>minitalk</p>
           </div>
         </div>
-        
-        
-        
-      </div>
-    </div>
-  </div>
     
 </html>
 
