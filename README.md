@@ -6,7 +6,7 @@
 
   </head>
   <div class="card">
-  <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="...">
+  <img src="https://badge42.herokuapp.com/api/stats/obalta" href="https://profile.intra.42.fr/users/obalta" class="card-img-top" alt="Profil de l'etudiant obalta">
 
   <div class="card-body">
     <p class="card-text">-- toto --</p>
