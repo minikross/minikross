@@ -4,35 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous"></link>
 
-  </head>
-  <div class="card">
-  <a href="https://profile.intra.42.fr/users/obalta"> <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta"></a>
+</head>
 
-  <div class="card-body">
-    <p class="card-text">-- toto --</p>
-    <a href="https://profile.intra.42.fr/users/obalta" class="btn btn-primary">Go somewhere</a>
+<body>
+
+  <div class="container">
+  <div class="row">
+    
+      <div class="card">
+      <a href="https://profile.intra.42.fr/users/obalta"> <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta"></a>
+      </div>
+    <div class="col">
+      
+    </div>
   </div>
 </div>
-
-<div class="card" aria-hidden="true">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title placeholder-glow">
-      <span class="placeholder col-6"></span>
-    </h5>
-    <p class="card-text placeholder-glow">
-      <span class="placeholder col-7"></span>
-      <span class="placeholder col-4"></span>
-      <span class="placeholder col-4"></span>
-      <span class="placeholder col-6"></span>
-      <span class="placeholder col-8"></span>
-    </p>
-    <a href="#" tabindex="-1" class="btn btn-primary disabled placeholder col-6"></a>
-  </div>
-</div><body>
-      <h1>Tronc commun</h1>
-
-  
   
   
   
