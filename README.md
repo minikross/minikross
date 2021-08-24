@@ -7,7 +7,7 @@
 </head>
 
 <body>
-
+<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta">
   <div class="container">
   <div class="row">
     
