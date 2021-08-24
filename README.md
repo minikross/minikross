@@ -1,5 +1,3 @@
-[![obalta's 42 stats](https://badge42.herokuapp.com/api/stats/obalta)](https://github.com/JaeSeoKim/badge42)
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -11,9 +9,8 @@
   <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="...">
 
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <p class="card-text">-- toto --</p>
+    <a href="https://profile.intra.42.fr/users/obalta" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
 
