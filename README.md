@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="text:center;">
+<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="right:0;">
   <div class="container">
     
       <a href="https://profile.intra.42.fr/users/obalta"> </a>
