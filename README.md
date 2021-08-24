@@ -7,8 +7,7 @@
 </head>
 
 <body>
-<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="position: -webkit-sticky;
-position: right;>
+<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="position: right;>
   <div class="container">
     
       <a href="https://profile.intra.42.fr/users/obalta"> </a>
@@ -18,7 +17,19 @@ position: right;>
   </div>
   
   
-  
+  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://via.placeholder.com/150" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://profile.intra.42.fr/users/obalta" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://via.placeholder.com/350" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
 
   </body>
 
