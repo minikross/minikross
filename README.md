@@ -20,6 +20,7 @@
         <div class="col">
           <div class="card">
             <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="toto">
+            <p>Libft</p>
           </div>
         </div>
       </div>
