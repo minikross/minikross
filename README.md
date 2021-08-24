@@ -16,9 +16,9 @@
           </a>
         </div>
       <div class="row">
-      <div class="col">
         
-        
+              <div class="col">
+
         
         
         <div class="card">
@@ -27,10 +27,11 @@
                 <p class="card-text">Libft</p>
           </div>
         </div>
+        </div>
         
         
-        
-        
+              <div class="col">
+
         
         
         
