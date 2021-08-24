@@ -19,7 +19,10 @@
       <div class="col">
           <table>
             <tr>
-              <td>Foo</td>
+              <td>Libft</td> 
+            </tr>
+            <tr>
+              <td>ft_printf</td> <td>get_next_line</td> <td>netwhat</td> 
             </tr>
           </table>
       </div>
