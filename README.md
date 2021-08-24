@@ -1,3 +1,4 @@
+```html
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -15,28 +16,12 @@
     
     
   </div>
-  
-  
-  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://via.placeholder.com/150" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="https://profile.intra.42.fr/users/obalta" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/350" class="d-block w-100" alt="...">
-    </div>
-  </div>
-</div>
+ 
 
   </body>
 
 </html>
-
-
-
+```
 
 
 
