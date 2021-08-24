@@ -7,8 +7,8 @@
 </head>
 
 <body>
-<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="right:0;position: -webkit-sticky;
-position: sticky;
+<img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta" style="position: -webkit-sticky;
+position: right;
 top: 20px;">
   <div class="container">
     
