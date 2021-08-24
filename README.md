@@ -11,7 +11,7 @@
   <div class="container-fluid">
     <div class="row">
         <a href="https://profile.intra.42.fr/users/obalta"> 
-          <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil de l'etudiant obalta">
+          <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
         </a>
     </div>
   </div>
