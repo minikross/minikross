@@ -24,6 +24,12 @@
             <tr>
               <td>ft_printf</td> <td>get_next_line</td> <td>netwhat</td> 
             </tr>
+            <tr>
+              <td>ft_server</td> <td>cub3d</td> <td>libasm</td> 
+            </tr>
+            <tr>
+              <td>push_swap</td> <td>philosopher</td> <td>minitalk</td> 
+            </tr>
           </table>
       </div>
       </div>
