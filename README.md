@@ -15,13 +15,14 @@
             <img src="https://badge42.herokuapp.com/api/stats/obalta" class="card-img-top" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
           </a>
         </div>
-      
+      <div class="row">
       <div class="col">
           <table>
             <tr>
               <td>Foo</td>
             </tr>
           </table>
+      </div>
       </div>
     </div>
   </div>
