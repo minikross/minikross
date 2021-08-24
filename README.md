@@ -23,6 +23,18 @@
             <p>Libft</p>
           </div>
         </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/ft_printf" class="card-img-top" alt="toto">
+            <p>ft_printf</p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/get_next_line" class="card-img-top" alt="toto">
+            <p>get_next_line</p>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col">
