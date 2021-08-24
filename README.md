@@ -17,29 +17,15 @@
         </div>
     </div>
       <div class="row">
-        
-              <div class="col">
-
-        
-        
-        <div class="card">
-          <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="...">
-          <div class="card-body">
-                <p class="card-text">Libft</p>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="toto">
           </div>
-        </div>
         </div>
       </div>
       <div class="row">
-
-        
-              <div class="col">
-
-        
-        
-        
-        
-        
+        <div class="col">
+          
           <table>
             <tr>
               <td>          <a href="https://profile.intra.42.fr/users/obalta"> Libft
