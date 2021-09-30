@@ -62,7 +62,7 @@
         <div class="col">
           <div class="card">
             <img src="https://badge42.herokuapp.com/api/project/obalta/push_swap" class="card-img-top" alt="toto">
-            <p>ft_server</p>
+            <p>push_swap</p>
           </div>
         </div>
     </div>
