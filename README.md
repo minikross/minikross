@@ -61,7 +61,7 @@
         </div>
         <div class="col">
           <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/get_next_line" class="card-img-top" alt="toto">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/push_swap" class="card-img-top" alt="toto">
             <p>minitalk</p>
           </div>
         </div>
