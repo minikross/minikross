@@ -67,8 +67,8 @@
         </div>
         <div class="col">
           <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/philosopher" class="card-img-top" alt="toto">
-            <p>philosopher</p>
+            <img src="https://badge42.herokuapp.com/api/project/obalta/Philosopher" class="card-img-top" alt="toto">
+            <p>Philosopher</p>
           </div>
         </div>
         <div class="col">
