@@ -65,6 +65,18 @@
             <p>push_swap</p>
           </div>
         </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/philosopher" class="card-img-top" alt="toto">
+            <p>philosopher</p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="https://badge42.herokuapp.com/api/project/obalta/minishell" class="card-img-top" alt="toto">
+            <p>minishell</p>
+          </div>
+        </div>
     </div>
   </div>
 </html>
