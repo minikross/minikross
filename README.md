@@ -1,4 +1,4 @@
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/stats?cursusId=21&coalitionId=122" alt="obalta's 42 stats" / style="postion:center"></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/stats?cursusId=21&coalitionId=122" alt="obalta's 42 stats"/" style="postion:center"></a>
 <hr/>
 [![obalta's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154)](https://github.com/JaeSeoKim/badge42)
 [![obalta's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155)](https://github.com/JaeSeoKim/badge42)
