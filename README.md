@@ -5,20 +5,22 @@
 
 <tr>
   <th align="center">
-  <div style="display:block;justify-content: center;">
    <h4>Exam Rank 06</h1>
     <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
-  </div>
   </th>
-  <th align="right">Cool</th>
+  
+  
+  <th align="center">
+     <h4>ft_transcendence</h1>
+     <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155" alt="obalta's 42 ft_transcendence Score" />
+  </th>
+  
 </tr>
 
 
 <span style="display:block;justify-content: center;">
 <div style="display:block;justify-content: center;">
-  <h4>ft_transcendence</h1>
-  <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155" alt="obalta's 42 ft_transcendence Score" />
-</div>
+ </div>
 
 <div style="display:block;justify-content: center;">
   <h4>Inception</h1>
