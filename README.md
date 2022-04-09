@@ -1,88 +1,10 @@
 [![obalta's 42 stats](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
-
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-
-</head>
-    
-  
-  <div class="container">
-    <div class="row">
-      <div class="col">
-          <a href="https://profile.intra.42.fr/users/obalta"> 
-            <img src="https://badge42.herokuapp.com/api/stats/obalta" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
-          </a>
-        </div>
-    </div>
-      <div class="row">
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/Libft" class="card-img-top" alt="toto">
-            <p>Libft</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/ft_printf" class="card-img-top" alt="toto">
-            <p>ft_printf</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/get_next_line" class="card-img-top" alt="toto">
-            <p>get_next_line</p>
-          </div>
-        </div>
-         <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/netwhat" class="card-img-top" alt="toto">
-            <p>netwhat</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/cub3d" class="card-img-top" alt="toto">
-            <p>cub3d</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/libasm" class="card-img-top" alt="toto">
-            <p>libasm</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/ft_server" class="card-img-top" alt="toto">
-            <p>ft_server</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/push_swap" class="card-img-top" alt="toto">
-            <p>push_swap</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/Philosophers" class="card-img-top" alt="toto">
-            <p>Philosophers</p>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img src="https://badge42.herokuapp.com/api/project/obalta/minishell" class="card-img-top" alt="toto">
-            <p>minishell</p>
-          </div>
-        </div>
-    </div>
-  </div>
-</html>
-
+[![obalta's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438774)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438770)](https://github.com/JaeSeoKim/badge42)
+[![obalta's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2168436)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
