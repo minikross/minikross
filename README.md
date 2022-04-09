@@ -1,12 +1,7 @@
-<p> Hello </p>
-<a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/stats?cursusId=21&coalitionId=122" alt="obalta's 42 stats"/></a>
-<p> Hello </p>
-<hr/>
-
 <p align="center">
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img align="center" src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/stats?cursusId=21&coalitionId=122" alt="obalta's 42 stats"/>
 </p>
-
+<hr/>
 
 
 
