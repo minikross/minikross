@@ -4,7 +4,7 @@
 <hr/>
 
 
-  <text>Exam Rank 06 _____ ft_transcendence ______ Inception_______Webserv_____________ft_containers</text> <br/>
+  <text>Exam Rank 06 _____ ft_transcendence ______ Inception______Webserv___________ft_containers</text> <br/>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155" alt="obalta's 42 ft_transcendence Score" />
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771" alt="obalta's 42 Inception Score" />
