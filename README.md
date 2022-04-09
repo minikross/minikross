@@ -3,6 +3,8 @@
 </p>
 <hr/>
 
+
+<span style="display:block" class="note">
 <p>
   <h4>Exam Rank 06</h1>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
@@ -15,7 +17,7 @@
   <h4>Inception</h1>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771" alt="obalta's 42 Inception Score" />
 </p>
-
+</span>
 
 <!--
 **minikross/minikross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
