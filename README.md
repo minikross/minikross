@@ -19,7 +19,13 @@
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771" alt="obalta's 42 Inception Score" />
 </div>
 </span>
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 <!--
 **minikross/minikross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
