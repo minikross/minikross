@@ -26,6 +26,15 @@
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+<tr>
+  <th>Tables</th>
+  <th align="center">Are</th>
+  <th align="right">Cool</th>
+</tr>
+
+
+
 <!--
 **minikross/minikross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
