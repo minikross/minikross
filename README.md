@@ -3,37 +3,16 @@
 </p>
 <hr/>
 
-<tr>
-  <th align="center">
    <h4>Exam Rank 06</h1>
     <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
-  </th>
+
   
-  
-  <th align="center">
      <h4>ft_transcendence</h1>
      <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155" alt="obalta's 42 ft_transcendence Score" />
-  </th>
-  
-</tr>
 
 
-<span style="display:block;justify-content: center;">
-<div style="display:block;justify-content: center;">
- </div>
-
-<div style="display:block;justify-content: center;">
   <h4>Inception</h1>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771" alt="obalta's 42 Inception Score" />
-</div>
-</span>
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
 
 
 
