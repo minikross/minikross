@@ -4,7 +4,7 @@
 <hr/>
 
 
-<span style="display:block">
+<span style="display:block;justify-content: center;">
 <div>
   <h4>Exam Rank 06</h1>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
