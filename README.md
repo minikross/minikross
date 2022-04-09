@@ -4,16 +4,17 @@
 <hr/>
 
 <p>
+  <h4>Exam Rank 06</h1>
+  <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154" alt="obalta's 42 Exam Rank 06 Score" />
+<p>
   <h4>ft_transcendence</h1>
   <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155" alt="obalta's 42 ft_transcendence Score" />
 </p>
 
-[![obalta's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457154)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2457155)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438774)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438770)](https://github.com/JaeSeoKim/badge42)
-[![obalta's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2168436)](https://github.com/JaeSeoKim/badge42)
+<p>
+  <h4>Inception</h1>
+  <img src="https://badge42.vercel.app/api/v2/cl1rnfu33003009mil8ujthad/project/2438771" alt="obalta's 42 Inception Score" />
+</p>
 
 
 <!--
