@@ -4,7 +4,6 @@
 <hr/>
 
 <tr>
-  <th>Tables</th>
   <th align="center">
   <div style="display:block;justify-content: center;">
    <h4>Exam Rank 06</h1>
